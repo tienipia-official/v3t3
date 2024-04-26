@@ -1,0 +1,28 @@
+/.parcel-cache/
+/node_modules/
+/dev-dist/
+/dist/
+/dist-*/
+/dist-release
+/*.log
+
+# yarn ignores
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# swagger
+/generated-source/
+/openapi-generator-cli.jar
+
+# Vite Plugin *.d.ts
+/auto-imports.d.ts
+/components.d.ts
+/typed-router.d.ts
+
+# Local env
+/*.local

@@ -1,0 +1,6 @@
+/.parcel-cache/
+/assets/
+/dist/
+/.yarn/
+/yarn.lock
+/types/

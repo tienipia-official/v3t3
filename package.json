@@ -37,7 +37,7 @@
   "license": "MIT",
   "dependencies": {
     "@tailwindcss/forms": "^0.5.7",
-    "@vueuse/core": "^10.9.0",
+    "@vueuse/core": "^10.10.0",
     "lz-string": "^1.5.0",
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.1",
